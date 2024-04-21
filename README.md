@@ -43,10 +43,6 @@
 </details>
 
 <br>
-<h3 align="center">
- Feel free to star some of my repositories!
-</h3>
-<br>
 <h3 align="center"> 
   <img src="https://komarev.com/ghpvc/?username=leakedyou&color=000000&style=for-the-badge&abbreviated=true" />
 </h3>
