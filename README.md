@@ -1,7 +1,4 @@
-# Hello, My name is Francisco
-## Pronouns: He/Him
-### About Me: Aspiring Software Engineer
-### Public Projects: Coming soon!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=FFFFFF&random=false&width=435&lines=Hi%2C+I'm+Francisco;I'm+a+future+Software+Engineer;I+also+love+cats;Public+Projects+coming+soon!)](https://git.io/typing-svg)
 
 [**My Website**](https://leakedyou.com/)
 
