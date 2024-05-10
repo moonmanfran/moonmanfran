@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi%2C+I'm+Francisco;I'm+a+future+Software+Engineer;I+also+love+cats;Public+Projects+coming+soon!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Hi+I'm+Fran;I'm+a+future+Software+Engineer;I+love+Coding+and+Cats)](https://git.io/typing-svg)
 
 [**My Website**](https://leakedyou.com/)
 
