@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Hi+I'm+Fran;I'm+a+future+Software+Engineer;I+love+Coding+and+Cats)](https://git.io/typing-svg)
 
-[**My Website**](https://leakedyou.com/)
-
 ---
 
 <b><i>My LinkedIn</i></b>  
