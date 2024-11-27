@@ -28,12 +28,12 @@
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=leakedyou&theme=dark&show_icons=true&hide_border=true&count_private=true"/></td>
+    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=moonmanfran&theme=dark&show_icons=true&hide_border=true&count_private=true"/></td>
     <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leakedyou&theme=dark&hide_border=true" /></td>
   </tr>
   <tr>
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leakedyou&theme=dark&show_icons=true&hide_border=true&layout=compact" /></td>
-    <td style="border: none;"><img src="https://github-profile-trophy.vercel.app/?username=leakedyou&theme=dracula" alt="Fran's github trophy"/></td>
+    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonmanfran&theme=dark&show_icons=true&hide_border=true&layout=compact" /></td>
+    <td style="border: none;"><img src="https://github-profile-trophy.vercel.app/?username=moonmanfran&theme=dracula" alt="Fran's github trophy"/></td>
   </tr>
 </table>
 
@@ -42,7 +42,7 @@
 
 <br>
 <h3 align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=leakedyou&color=000000&style=for-the-badge&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=moonmanfran&color=000000&style=for-the-badge&abbreviated=true" />
 </h3>
 
 [linkedin]: https://www.linkedin.com/in/francisco-chang-39727725b/
