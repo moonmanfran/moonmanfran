@@ -29,7 +29,7 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=moonmanfran&theme=dark&show_icons=true&hide_border=true&count_private=true"/></td>
-    <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leakedyou&theme=dark&hide_border=true" /></td>
+    <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moonmanfran&theme=dark&hide_border=true" /></td>
   </tr>
   <tr>
     <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonmanfran&theme=dark&show_icons=true&hide_border=true&layout=compact" /></td>
