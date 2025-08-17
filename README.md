@@ -45,4 +45,4 @@
   <img src="https://komarev.com/ghpvc/?username=moonmanfran&color=000000&style=for-the-badge&abbreviated=true" />
 </h3>
 
-[linkedin]: https://www.linkedin.com/in/francisco-chang-39727725b/
+[linkedin]: https://www.linkedin.com/in/francisco-chang-jr-39727725b/
