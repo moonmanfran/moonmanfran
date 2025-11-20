@@ -33,7 +33,6 @@
   </tr>
   <tr>
     <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonmanfran&theme=dark&show_icons=true&hide_border=true&layout=compact" /></td>
-    <td style="border: none;"><img src="https://github-profile-trophy.vercel.app/?username=moonmanfran&theme=dracula" alt="Fran's github trophy"/></td>
   </tr>
 </table>
 
